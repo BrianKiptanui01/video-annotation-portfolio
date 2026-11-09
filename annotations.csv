@@ -1,0 +1,5 @@
+video_id,start_time,end_time,object,action,description
+VIDEO001,00:00,00:03,Person,Approaching,A person approaches a bicycle.
+VIDEO001,00:03,00:06,Person,Mounting,A person gets onto the bicycle.
+VIDEO001,00:06,00:12,Person,Cycling,A person rides the bicycle along the road.
+VIDEO001,00:12,00:15,Bicycle,Stopping,The bicycle comes to a complete stop.
