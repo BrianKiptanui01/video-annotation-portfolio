@@ -1,4 +1,4 @@
-Video Annotation Portfolio
+#Video Annotation Portfolio
 
 Project Overview
 
@@ -26,9 +26,9 @@ Skills Demonstrated
 
 Project Files
 
-- "annotations.csv" – Sample video annotation dataset.
-- "guidelines.md" – Video annotation guidelines.
-- "quality_review.md" – Annotation quality review.
+- "annotations.csv" - Sample video annotation dataset.
+- "guidelines.md" - Video annotation guidelines.
+- "quality_review.md" - Annotation quality review.
 
 Project Status
 
@@ -36,4 +36,4 @@ Beginner-level practical portfolio project. The current dataset contains illustr
 
 Author
 
-Created as a practical learning project to demonstrate video annotation and AI data quality skills.
+Created as a practical project to demonstrate video annotation and AI data quality skills.
