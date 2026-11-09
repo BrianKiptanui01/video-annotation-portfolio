@@ -1,0 +1,40 @@
+Video Annotation Guidelines
+
+1. Purpose
+
+These guidelines explain the process of identifying and labelling objects, activities and events in video footage.
+
+2. Object Identification
+
+- Identify all relevant objects visible in the video.
+- Use clear and consistent object names.
+- Avoid guessing when an object is unclear.
+
+3. Action Recognition
+
+- Describe observable actions accurately.
+- Use simple, objective language.
+- Avoid adding assumptions about people's intentions.
+
+4. Timestamp Accuracy
+
+- Record the correct start and end times of each action.
+- Ensure timestamps match the actual video events.
+- Avoid overlapping timestamps unless required by the annotation task.
+
+5. Description Quality
+
+- Keep descriptions clear, specific and factual.
+- Include relevant movements and interactions.
+- Avoid unnecessary information.
+
+6. Quality Control
+
+- Review annotations for missing information.
+- Check timestamps for accuracy.
+- Correct spelling and labelling errors.
+- Maintain consistency throughout the dataset.
+
+7. General Principle
+
+All annotations should be accurate, objective, consistent and based on observable video content.
