@@ -1,4 +1,4 @@
-#Video Annotation Portfolio
+Video Annotation Portfolio
 
 Project Overview
 
